@@ -1,0 +1,8 @@
+stength 99
+agility 123
+intelligence 12
+wisdom 343
+dexterity 4
+luck 1
+stealth 42
+divinity 123
